@@ -12221,3 +12221,16 @@ pre .code {
 .section-lg {
   padding: 100px 0 !important;
 }
+
+<style>
+  #banner {
+    width: 800px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #banner img {
+    width: 8%;
+  }
+</style>
